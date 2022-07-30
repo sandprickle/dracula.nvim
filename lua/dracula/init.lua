@@ -3,10 +3,10 @@
 local M = {}
 
 local DEFAULT_COLORS = {
-  bg = "#22212C",
+  bg = "#0B0D0F",
   fg = "#F8F8F2",
-  selection = "#454158",
-  comment = "#7970A9",
+  selection = "#414D58",
+  comment = "#708CA9",
   red = "#FF9580",
   orange = "#FFCA80",
   yellow = "#FFFF80",
